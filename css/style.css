@@ -79,3 +79,7 @@ nav i.material-icons{
 .contactUs_btns{
     font-size: 1.3rem;
 }
+
+a.btn.line-up{
+    line-height: 35px;
+}
